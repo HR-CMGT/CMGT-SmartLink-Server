@@ -1,2 +1,3 @@
 # CMGT-SmartLink-Server
-The link server for the CMGT SmartLink browser extension
+
+This repository is used as server for the "links.json" file. This file is used by the CMGT SmartLink browser extension.
