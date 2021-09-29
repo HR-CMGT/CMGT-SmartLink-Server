@@ -4,7 +4,8 @@ This repository is used as server for the "links.json" file. This file is used b
 
 ## Extension
 
-https://github.com/HR-CMGT/CMGT-SmartLink
+- [Github repository](https://github.com/HR-CMGT/CMGT-SmartLink)
+- [Chrome Web Store]()
 
 ## TODO
 
