@@ -2,85 +2,61 @@
     {
         "id": 1,
         "name": "Clever",
-        "url": "https://cle.cmgt.hr.nl",
-        "created_at": "2018-09-29T22:01:18.544Z",
-        "updated_at": "2018-09-29T22:01:18.544Z"
+        "url": "https://cle.cmgt.hr.nl"
     },
     {
         "id": 3,
         "name": "OSIRIS",
-        "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do",
-        "created_at": "2018-09-29T22:02:48.243Z",
-        "updated_at": "2018-09-29T22:02:48.243Z"
+        "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
     },
     {
         "id": 4,
         "name": "Contact",
-        "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/",
-        "created_at": "2018-09-29T22:03:38.740Z",
-        "updated_at": "2018-09-29T22:03:38.740Z"
+        "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
     },
     {
         "id": 5,
         "name": "Showcase",
-        "url": "https://cmgt.hr.nl/",
-        "created_at": "2018-09-29T22:04:11.016Z",
-        "updated_at": "2018-10-10T08:54:07.384Z"
+        "url": "https://cmgt.hr.nl/"
     },
     {
         "id": 6,
         "name": "HINT",
-        "url": "https://hint.hr.nl",
-        "created_at": "2018-09-29T22:05:39.844Z",
-        "updated_at": "2018-09-29T22:05:39.844Z"
+        "url": "https://hint.hr.nl"
     },
     {
         "id": 7,
         "name": "Decanen",
-        "url": "https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/",
-        "created_at": "2018-10-16T11:44:39.439Z",
-        "updated_at": "2020-09-25T09:22:38.593Z"
+        "url": "https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/"
     },
     {
         "id": 8,
         "name": "WebMail",
-        "url": "https://webmail.hro.nl",
-        "created_at": "2018-10-16T14:51:11.007Z",
-        "updated_at": "2018-10-16T14:51:11.007Z"
+        "url": "https://webmail.hro.nl"
     },
     {
         "id": 9,
         "name": "Cumlaude",
-        "url": "https://lms.hr.nl/",
-        "created_at": "2018-11-01T11:09:03.162Z",
-        "updated_at": "2018-11-01T11:10:03.515Z"
+        "url": "https://lms.hr.nl/"
     },
     {
         "id": 10,
         "name": "PraktijkLink",
-        "url": "https://praktijklink.hr.nl/",
-        "created_at": "2020-03-05T12:22:05.971Z",
-        "updated_at": "2020-03-05T12:22:05.971Z"
+        "url": "https://praktijklink.hr.nl/"
     },
     {
         "id": 11,
         "name": "Remindo",
-        "url": "https://hr.remindotoets.nl/login/",
-        "created_at": "2020-06-10T12:44:20.181Z",
-        "updated_at": "2020-06-10T12:44:20.181Z"
+        "url": "https://hr.remindotoets.nl/login/"
     },
     {
         "id": 12,
         "name": "Corona",
-        "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/",
-        "created_at": "2020-10-19T09:16:37.570Z",
-        "updated_at": "2020-10-19T09:28:36.274Z"
+        "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
     },
     {
         "id": 13,
         "name": "Rooster",
-        "url": "https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/roosters-nieuwestijl/",
-        "created_at": "2021-02-09T12:20:49.963Z",
-        "updated_at": "2021-09-08T13:02:22.471Z"
+        "url": "https://mijn.hr.nl"
     }
 ]
