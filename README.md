@@ -9,4 +9,6 @@ This repository is used as server for the "links.json" file. This file is used b
 
 ## TODO
 
-Rooster is https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/roosters-nieuwestijl/ of https://mijn.hr.nl
+- Rooster is https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/roosters-nieuwestijl/ 
+- Mijn.hr.nl apart? https://mijn.hr.nl
+- Teams?
