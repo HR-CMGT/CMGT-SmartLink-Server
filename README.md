@@ -1,6 +1,6 @@
 # CMGT-SmartLink-Server
 
-This repository is used as server for the "links.json" file. This file is used by the CMGT SmartLink browser extension. Load the JSON via https://hr-cmgt.github.io/CMGT-SmartLink-Server/links.json
+This repository is used as server for the "links.json" file. The CMGT SmartLink browser extension loads JSON via https://hr-cmgt.github.io/CMGT-SmartLink-Server/links.json
 
 ## Extension
 
