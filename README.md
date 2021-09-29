@@ -5,3 +5,7 @@ This repository is used as server for the "links.json" file. This file is used b
 ## Extension
 
 https://github.com/HR-CMGT/CMGT-SmartLink
+
+## TODO
+
+Rooster is https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/roosters-nieuwestijl/ of https://mijn.hr.nl
