@@ -1,61 +1,49 @@
 [
     {
-        "id": 1,
         "name": "Clever",
         "url": "https://cle.cmgt.hr.nl"
     },
     {
-        "id": 3,
         "name": "OSIRIS",
         "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
     },
     {
-        "id": 4,
         "name": "Contact",
         "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
     },
     {
-        "id": 5,
         "name": "Showcase",
         "url": "https://cmgt.hr.nl/"
     },
     {
-        "id": 6,
         "name": "HINT",
         "url": "https://hint.hr.nl"
     },
     {
-        "id": 7,
         "name": "Decanen",
         "url": "https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/"
     },
     {
-        "id": 8,
         "name": "WebMail",
         "url": "https://webmail.hro.nl"
     },
     {
-        "id": 9,
         "name": "Cumlaude",
         "url": "https://lms.hr.nl/"
     },
     {
-        "id": 10,
         "name": "PraktijkLink",
         "url": "https://praktijklink.hr.nl/"
     },
     {
-        "id": 11,
         "name": "Remindo",
         "url": "https://hr.remindotoets.nl/login/"
     },
     {
-        "id": 12,
         "name": "Corona",
         "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
     },
     {
-        "id": 13,
         "name": "Rooster",
         "url": "https://mijn.hr.nl"
     }
