@@ -44,7 +44,15 @@
         "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
     },
     {
-        "name": "Rooster",
+        "name": "Mijn HR",
         "url": "https://mijn.hr.nl"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/cmgt_hr/"
+    },
+    {
+        "name": "Github",
+        "url": "https://github.com/HR-CMGT"
     }
 ]
