@@ -1,116 +1,118 @@
-[
-  "student":[
-    {
-        "name": "Clever",
-        "url": "https://cle.cmgt.hr.nl"
-    },
-    {
-        "name": "OSIRIS",
-        "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
-    },
-    {
-        "name": "Contact",
-        "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
-    },
-    {
-        "name": "Showcase",
-        "url": "https://cmgt.hr.nl/"
-    },
-    {
-        "name": "HINT",
-        "url": "https://hint.hr.nl"
-    },
-    {
-        "name": "Decanen",
-        "url": "https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/"
-    },
-    {
-        "name": "WebMail",
-        "url": "https://webmail.hro.nl"
-    },
-    {
-        "name": "Cumlaude",
-        "url": "https://lms.hr.nl/"
-    },
-    {
-        "name": "PraktijkLink",
-        "url": "https://praktijklink.hr.nl/"
-    },
-    {
-        "name": "Remindo",
-        "url": "https://hr.remindotoets.nl/login/"
-    },
-    {
-        "name": "Corona",
-        "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
-    },
-    {
-        "name": "Mijn HR",
-        "url": "https://mijn.hr.nl"
-    },
-    {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/cmgt_hr/"
-    },
-    {
-        "name": "Github",
-        "url": "https://github.com/HR-CMGT"
-    },{
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/cmgt_hr"
-    }
-],
-  "teacher":[
-    {
-        "name": "Clever",
-        "url": "https://cle.cmgt.hr.nl"
-    },
-    {
-        "name": "OSIRIS",
-        "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
-    },
-    {
-        "name": "Contact",
-        "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
-    },
-    {
-        "name": "Showcase",
-        "url": "https://cmgt.hr.nl/"
-    },
-    {
-        "name": "HINT",
-        "url": "https://hint.hr.nl"
-    },
-    {
-        "name": "WebMail",
-        "url": "https://webmail.hro.nl"
-    },
-    {
-        "name": "Cumlaude",
-        "url": "https://lms.hr.nl/"
-    },
-    {
-        "name": "PraktijkLink",
-        "url": "https://praktijklink.hr.nl/"
-    },
-    {
-        "name": "Remindo",
-        "url": "https://hr.remindotoets.nl/login/"
-    },
-    {
-        "name": "Corona",
-        "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
-    },
-    {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/cmgt_hr/"
-    },
-    {
-        "name": "Github",
-        "url": "https://github.com/HR-CMGT"
-    },{
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/cmgt_hr"
-    }
-]
-]
+{
+    "student": [
+        {
+            "name": "Clever",
+            "url": "https://cle.cmgt.hr.nl"
+        },
+        {
+            "name": "OSIRIS",
+            "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
+        },
+        {
+            "name": "Contact",
+            "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
+        },
+        {
+            "name": "Showcase",
+            "url": "https://cmgt.hr.nl/"
+        },
+        {
+            "name": "HINT",
+            "url": "https://hint.hr.nl"
+        },
+        {
+            "name": "Decanen",
+            "url": "https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/"
+        },
+        {
+            "name": "WebMail",
+            "url": "https://webmail.hro.nl"
+        },
+        {
+            "name": "Cumlaude",
+            "url": "https://lms.hr.nl/"
+        },
+        {
+            "name": "PraktijkLink",
+            "url": "https://praktijklink.hr.nl/"
+        },
+        {
+            "name": "Remindo",
+            "url": "https://hr.remindotoets.nl/login/"
+        },
+        {
+            "name": "Corona",
+            "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
+        },
+        {
+            "name": "Mijn HR",
+            "url": "https://mijn.hr.nl"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/cmgt_hr/"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/HR-CMGT"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://www.twitch.tv/cmgt_hr"
+        }
+    ],
+    "teacher": [
+        {
+            "name": "Clever",
+            "url": "https://cle.cmgt.hr.nl"
+        },
+        {
+            "name": "OSIRIS",
+            "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
+        },
+        {
+            "name": "Contact",
+            "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
+        },
+        {
+            "name": "Showcase",
+            "url": "https://cmgt.hr.nl/"
+        },
+        {
+            "name": "HINT",
+            "url": "https://hint.hr.nl"
+        },
+        {
+            "name": "WebMail",
+            "url": "https://webmail.hro.nl"
+        },
+        {
+            "name": "Cumlaude",
+            "url": "https://lms.hr.nl/"
+        },
+        {
+            "name": "PraktijkLink",
+            "url": "https://praktijklink.hr.nl/"
+        },
+        {
+            "name": "Remindo",
+            "url": "https://hr.remindotoets.nl/login/"
+        },
+        {
+            "name": "Corona",
+            "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/cmgt_hr/"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/HR-CMGT"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://www.twitch.tv/cmgt_hr"
+        }
+    ]
+}
