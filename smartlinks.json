@@ -63,44 +63,44 @@
     ],
     "teacher": [
         {
-            "name": "Clever",
-            "url": "https://cle.cmgt.hr.nl"
+            "name": "WebMail",
+            "url": "https://webmail.hro.nl"
         },
         {
             "name": "OSIRIS",
             "url": "https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do"
         },
         {
-            "name": "Contact",
-            "url": "https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/"
+            "name": "Sharepoint",
+            "url": "https://hrnl.sharepoint.com"
         },
         {
-            "name": "Showcase",
-            "url": "https://cmgt.hr.nl/"
+            "name":"Office 365",
+            "url":"http://office.hr.nl/"
+        },
+        {
+            "name":"Toolbox",
+            "url":"https://toolbox.hr.nl/"
         },
         {
             "name": "HINT",
             "url": "https://hint.hr.nl"
         },
         {
-            "name": "WebMail",
-            "url": "https://webmail.hro.nl"
-        },
-        {
             "name": "Cumlaude",
             "url": "https://lms.hr.nl/"
         },
         {
+            "name": "Clever",
+            "url": "https://cle.cmgt.hr.nl"
+        },
+        {
+            "name": "Showcase",
+            "url": "https://cmgt.hr.nl/"
+        },
+        {
             "name": "PraktijkLink",
             "url": "https://praktijklink.hr.nl/"
-        },
-        {
-            "name": "Remindo",
-            "url": "https://hr.remindotoets.nl/login/"
-        },
-        {
-            "name": "Corona",
-            "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
         },
         {
             "name": "Instagram",
