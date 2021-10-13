@@ -47,6 +47,12 @@
         {
             "name": "Mijn HR",
             "url": "https://mijn.hr.nl"
+        },{
+            "name":"SURFspot",
+            "url":"https://www.surfspot.nl/stc"
+        },{
+            "name":"Mediatheek",
+            "url":"https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/"
         },
         {
             "name": "Instagram",
@@ -101,6 +107,13 @@
         {
             "name": "PraktijkLink",
             "url": "https://praktijklink.hr.nl/"
+        },
+        {
+            "name":"SURFspot",
+            "url":"https://www.surfspot.nl/stc"
+        },{
+            "name":"Mediatheek",
+            "url":"https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/"
         },
         {
             "name": "Instagram",
