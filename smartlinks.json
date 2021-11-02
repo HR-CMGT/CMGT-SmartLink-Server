@@ -17,6 +17,10 @@
             "url": "https://cmgt.hr.nl/"
         },
         {
+            "name":"Rooster",
+            "url":"https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/",
+        },
+        {
             "name": "HINT",
             "url": "https://hint.hr.nl"
         },
@@ -79,6 +83,10 @@
         {
             "name": "Sharepoint",
             "url": "https://hrnl.sharepoint.com/sites/CMGT"
+        },
+        {
+            "name":"Rooster",
+            "url":"https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/",
         },
         {
             "name":"Office 365",
