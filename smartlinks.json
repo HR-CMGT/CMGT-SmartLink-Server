@@ -89,6 +89,10 @@
             "url":"https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/"
         },
         {
+            "name": "Brightspace",
+            "url": "http://brightspace.hr.nl"
+        },
+        {
             "name":"Office 365",
             "url":"http://office.hr.nl/"
         },
