@@ -45,10 +45,6 @@
             "url": "https://hr.remindotoets.nl/login/"
         },
         {
-            "name": "Corona",
-            "url": "https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/"
-        },
-        {
             "name": "Mijn HR",
             "url": "https://mijn.hr.nl"
         },{
@@ -121,9 +117,14 @@
             "url": "https://hrm.hr.nl/"
         },
         {
+            "name":"Reiskosten",
+            "url":"https://chrome.google.com/webstore/detail/hr2day-reiskostenvergoedi/gmanhcfmbgopojpijdmjcbpoamhcglpb"
+        }
+        {
             "name":"SURFspot",
             "url":"https://www.surfspot.nl/stc"
-        },{
+        },
+        {
             "name":"Mediatheek",
             "url":"https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/"
         },
